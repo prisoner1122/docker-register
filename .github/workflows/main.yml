@@ -21,7 +21,7 @@ jobs:
       uses: docker/login-action@v2.2.0
       with:
         registry: registry.cn-hangzhou.aliyuncs.com
-        username: 1128238801478881
+        username: asdasddd
         password: 15926400725aa
         logout: false
         
